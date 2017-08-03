@@ -1,0 +1,1487 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1920px;
+	 height: 1080px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #BGBlack 
+{ 
+	 left: -2px; 
+	 top: -51px; 
+	 position: absolute; 
+	 width: 1923px;
+	 height: 1297px;
+	 z-index:1;
+} 
+
+ #Layer57 
+{ 
+	 left: 0px; 
+	 top: -50px; 
+	 position: absolute; 
+	 width: 1920px;
+	 height: 1129px;
+	 z-index:2;
+} 
+
+ #Layer58 
+{ 
+	 left: 0px; 
+	 top: -85px; 
+	 position: absolute; 
+	 width: 1920px;
+	 height: 1200px;
+	 z-index:3;
+} 
+
+ #Rectangle6copy 
+{ 
+	 left: 1358px; 
+	 top: -2px; 
+	 position: absolute; 
+	 width: 243px;
+	 height: 1083px;
+	 z-index:4;
+} 
+
+ #Rectangle6copy4 
+{ 
+	 left: 318px; 
+	 top: -2px; 
+	 position: absolute; 
+	 width: 243px;
+	 height: 1083px;
+	 z-index:5;
+} 
+
+ #Rectangle6 
+{ 
+	 left: 558px; 
+	 top: -1px; 
+	 position: absolute; 
+	 width: 803px;
+	 height: 1082px;
+	 z-index:6;
+} 
+
+ #Layer56 
+{ 
+	 left: 0px; 
+	 top: 41px; 
+	 position: absolute; 
+	 width: 1535px;
+	 height: 327px;
+	 z-index:7;
+} 
+
+ #Rectangle6copy2 
+{ 
+	 left: 558px; 
+	 top: -51px; 
+	 position: absolute; 
+	 width: 4px;
+	 height: 1132px;
+	 z-index:8;
+} 
+
+ #Rectangle6copy3 
+{ 
+	 left: 1357px; 
+	 top: -51px; 
+	 position: absolute; 
+	 width: 4px;
+	 height: 1132px;
+	 z-index:9;
+} 
+
+ #Rectangle7 
+{ 
+	 left: 582px; 
+	 top: 426px; 
+	 position: absolute; 
+	 width: 756px;
+	 height: 439px;
+	 z-index:10;
+} 
+
+ #Layer55 
+{ 
+	 left: 585px; 
+	 top: 487px; 
+	 position: absolute; 
+	 width: 751px;
+	 height: 501px;
+	 z-index:11;
+} 
+
+ #TerimaKasihtelahmend 
+{ 
+	 left: 762px; 
+	 top: 506px; 
+	 position: absolute; 
+	 width: 395px;
+	 height: 81px;
+	 z-index:12;
+} 
+
+ #registrasiberhasil 
+{ 
+	 left: 831px; 
+	 top: 448px; 
+	 position: absolute; 
+	 width: 256px;
+	 height: 27px;
+	 z-index:13;
+} 
+
+ #HiRaditzKeluarcopy 
+{ 
+	 left: 1192px; 
+	 top: 455px; 
+	 position: absolute; 
+	 width: 124px;
+	 height: 14px;
+	 z-index:14;
+} 
+
+ #Rectangle8 
+{ 
+	 left: 873px; 
+	 top: 886px; 
+	 position: absolute; 
+	 width: 174px;
+	 height: 54px;
+	 z-index:15;
+} 
+
+ #RoundedRectangle1 
+{ 
+	 left: 873px; 
+	 top: 861px; 
+	 position: absolute; 
+	 width: 216px;
+	 height: 54px;
+	 z-index:16;
+} 
+
+ #keluar 
+{ 
+	 left: 903px; 
+	 top: 900px; 
+	 position: absolute; 
+	 width: 115px;
+	 height: 27px;
+	 z-index:17;
+} 
+
+ #Rectangle8_0 
+{ 
+	 left: 873px; 
+	 top: 886px; 
+	 position: absolute; 
+	 width: 174px;
+	 height: 54px;
+	 z-index:18;
+} 
+
+ #RoundedRectangle1_0 
+{ 
+	 left: 873px; 
+	 top: 861px; 
+	 position: absolute; 
+	 width: 216px;
+	 height: 54px;
+	 z-index:19;
+} 
+
+ #keluar_0 
+{ 
+	 left: 903px; 
+	 top: 900px; 
+	 position: absolute; 
+	 width: 115px;
+	 height: 27px;
+	 z-index:20;
+} 
+
+ #Rectangle7_0 
+{ 
+	 left: 582px; 
+	 top: 424px; 
+	 position: absolute; 
+	 width: 756px;
+	 height: 441px;
+	 z-index:21;
+} 
+
+ #Rectangle15copy 
+{ 
+	 left: 584px; 
+	 top: 908px; 
+	 position: absolute; 
+	 width: 742px;
+	 height: 4px;
+	 z-index:22;
+} 
+
+ #anggota2 
+{ 
+	 left: 1139px; 
+	 top: 865px; 
+	 position: absolute; 
+	 width: 138px;
+	 height: 34px;
+	 z-index:23;
+} 
+
+ #RoundedRectangle2 
+{ 
+	 left: 811px; 
+	 top: 787px; 
+	 position: absolute; 
+	 width: 303px;
+	 height: 33px;
+	 z-index:24;
+} 
+
+ #RoundedRectangle2cop 
+{ 
+	 left: 811px; 
+	 top: 827px; 
+	 position: absolute; 
+	 width: 303px;
+	 height: 33px;
+	 z-index:25;
+} 
+
+ #RoundedRectangle3 
+{ 
+	 left: 811px; 
+	 top: 867px; 
+	 position: absolute; 
+	 width: 153px;
+	 height: 33px;
+	 z-index:26;
+} 
+
+ #Rectangle15 
+{ 
+	 left: 930px; 
+	 top: 863px; 
+	 position: absolute; 
+	 width: 40px;
+	 height: 40px;
+	 z-index:27;
+} 
+
+ #Polygon1copy12 
+{ 
+	 left: 939px; 
+	 top: 877px; 
+	 position: absolute; 
+	 width: 18px;
+	 height: 16px;
+	 z-index:28;
+} 
+
+ #NamaLengkapNoTelepon 
+{ 
+	 left: 617px; 
+	 top: 799px; 
+	 position: absolute; 
+	 width: 183px;
+	 height: 91px;
+	 z-index:29;
+} 
+
+ #Rectangle15copy_0 
+{ 
+	 left: 584px; 
+	 top: 775px; 
+	 position: absolute; 
+	 width: 742px;
+	 height: 4px;
+	 z-index:30;
+} 
+
+ #anggota1 
+{ 
+	 left: 1139px; 
+	 top: 732px; 
+	 position: absolute; 
+	 width: 134px;
+	 height: 34px;
+	 z-index:31;
+} 
+
+ #RoundedRectangle2_0 
+{ 
+	 left: 811px; 
+	 top: 654px; 
+	 position: absolute; 
+	 width: 303px;
+	 height: 33px;
+	 z-index:32;
+} 
+
+ #RoundedRectangle2cop_0 
+{ 
+	 left: 811px; 
+	 top: 694px; 
+	 position: absolute; 
+	 width: 303px;
+	 height: 33px;
+	 z-index:33;
+} 
+
+ #RoundedRectangle3_0 
+{ 
+	 left: 811px; 
+	 top: 734px; 
+	 position: absolute; 
+	 width: 153px;
+	 height: 33px;
+	 z-index:34;
+} 
+
+ #Rectangle15_0 
+{ 
+	 left: 930px; 
+	 top: 730px; 
+	 position: absolute; 
+	 width: 40px;
+	 height: 40px;
+	 z-index:35;
+} 
+
+ #Polygon1copy12_0 
+{ 
+	 left: 939px; 
+	 top: 744px; 
+	 position: absolute; 
+	 width: 18px;
+	 height: 16px;
+	 z-index:36;
+} 
+
+ #NamaLengkapNoTelepon_0 
+{ 
+	 left: 617px; 
+	 top: 666px; 
+	 position: absolute; 
+	 width: 183px;
+	 height: 91px;
+	 z-index:37;
+} 
+
+ #Rectangle15copy_1 
+{ 
+	 left: 584px; 
+	 top: 641px; 
+	 position: absolute; 
+	 width: 742px;
+	 height: 4px;
+	 z-index:38;
+} 
+
+ #Captain 
+{ 
+	 left: 1168px; 
+	 top: 597px; 
+	 position: absolute; 
+	 width: 105px;
+	 height: 34px;
+	 z-index:39;
+} 
+
+ #RoundedRectangle2_1 
+{ 
+	 left: 811px; 
+	 top: 479px; 
+	 position: absolute; 
+	 width: 303px;
+	 height: 33px;
+	 z-index:40;
+} 
+
+ #RoundedRectangle2cop_1 
+{ 
+	 left: 811px; 
+	 top: 519px; 
+	 position: absolute; 
+	 width: 303px;
+	 height: 33px;
+	 z-index:41;
+} 
+
+ #RoundedRectangle2cop_2 
+{ 
+	 left: 811px; 
+	 top: 559px; 
+	 position: absolute; 
+	 width: 303px;
+	 height: 33px;
+	 z-index:42;
+} 
+
+ #RoundedRectangle3cop 
+{ 
+	 left: 811px; 
+	 top: 599px; 
+	 position: absolute; 
+	 width: 153px;
+	 height: 33px;
+	 z-index:43;
+} 
+
+ #Rectangle15copy2 
+{ 
+	 left: 930px; 
+	 top: 595px; 
+	 position: absolute; 
+	 width: 40px;
+	 height: 40px;
+	 z-index:44;
+} 
+
+ #Polygon1copy13 
+{ 
+	 left: 939px; 
+	 top: 609px; 
+	 position: absolute; 
+	 width: 18px;
+	 height: 16px;
+	 z-index:45;
+} 
+
+ #NamaTimNamaLengkap 
+{ 
+	 left: 617px; 
+	 top: 491px; 
+	 position: absolute; 
+	 width: 183px;
+	 height: 131px;
+	 z-index:46;
+} 
+
+ #Test1234JenisKelamin 
+{ 
+	 left: 827px; 
+	 top: 531px; 
+	 position: absolute; 
+	 width: 86px;
+	 height: 91px;
+	 z-index:47;
+} 
+
+ #RoundedRectangle5 
+{ 
+	 left: 1306px; 
+	 top: 479px; 
+	 position: absolute; 
+	 width: 11px;
+	 height: 513px;
+	 z-index:48;
+} 
+
+ #RoundedRectangle5cop 
+{ 
+	 left: 1306px; 
+	 top: 479px; 
+	 position: absolute; 
+	 width: 11px;
+	 height: 104px;
+	 z-index:49;
+} 
+
+ #HiRaditzKeluar 
+{ 
+	 left: 1192px; 
+	 top: 445px; 
+	 position: absolute; 
+	 width: 124px;
+	 height: 14px;
+	 z-index:50;
+} 
+
+ #formregistrasi 
+{ 
+	 left: 860px; 
+	 top: 438px; 
+	 position: absolute; 
+	 width: 198px;
+	 height: 27px;
+	 z-index:51;
+} 
+
+ #Rectangle8_1 
+{ 
+	 left: 1144px; 
+	 top: 884px; 
+	 position: absolute; 
+	 width: 174px;
+	 height: 54px;
+	 z-index:52;
+} 
+
+ #RoundedRectangle1_1 
+{ 
+	 left: 1144px; 
+	 top: 859px; 
+	 position: absolute; 
+	 width: 216px;
+	 height: 54px;
+	 z-index:53;
+} 
+
+ #registrasi 
+{ 
+	 left: 1159px; 
+	 top: 900px; 
+	 position: absolute; 
+	 width: 145px;
+	 height: 23px;
+	 z-index:54;
+} 
+
+ #Rectangle8_2 
+{ 
+	 left: 1144px; 
+	 top: 884px; 
+	 position: absolute; 
+	 width: 174px;
+	 height: 54px;
+	 z-index:55;
+} 
+
+ #RoundedRectangle1_2 
+{ 
+	 left: 1144px; 
+	 top: 859px; 
+	 position: absolute; 
+	 width: 216px;
+	 height: 54px;
+	 z-index:56;
+} 
+
+ #registrasi_0 
+{ 
+	 left: 1159px; 
+	 top: 900px; 
+	 position: absolute; 
+	 width: 145px;
+	 height: 23px;
+	 z-index:57;
+} 
+
+ #Sayatelahmembacadanm 
+{ 
+	 left: 628px; 
+	 top: 888px; 
+	 position: absolute; 
+	 width: 244px;
+	 height: 32px;
+	 z-index:58;
+} 
+
+ #RoundedRectangle4 
+{ 
+	 left: 602px; 
+	 top: 884px; 
+	 position: absolute; 
+	 width: 19px;
+	 height: 19px;
+	 z-index:59;
+} 
+
+ #Rectangle7copy 
+{ 
+	 left: 582px; 
+	 top: 426px; 
+	 position: absolute; 
+	 width: 756px;
+	 height: 439px;
+	 z-index:60;
+} 
+
+ #RegistrasiAkun 
+{ 
+	 left: 860px; 
+	 top: 438px; 
+	 position: absolute; 
+	 width: 198px;
+	 height: 27px;
+	 z-index:61;
+} 
+
+ #RoundedRectangle2_2 
+{ 
+	 left: 811px; 
+	 top: 479px; 
+	 position: absolute; 
+	 width: 303px;
+	 height: 33px;
+	 z-index:62;
+} 
+
+ #RoundedRectangle2cop_3 
+{ 
+	 left: 811px; 
+	 top: 519px; 
+	 position: absolute; 
+	 width: 303px;
+	 height: 33px;
+	 z-index:63;
+} 
+
+ #RoundedRectangle2cop_4 
+{ 
+	 left: 811px; 
+	 top: 559px; 
+	 position: absolute; 
+	 width: 303px;
+	 height: 33px;
+	 z-index:64;
+} 
+
+ #RoundedRectangle2cop_5 
+{ 
+	 left: 811px; 
+	 top: 639px; 
+	 position: absolute; 
+	 width: 303px;
+	 height: 126px;
+	 z-index:65;
+} 
+
+ #RoundedRectangle3cop_0 
+{ 
+	 left: 811px; 
+	 top: 599px; 
+	 position: absolute; 
+	 width: 153px;
+	 height: 33px;
+	 z-index:66;
+} 
+
+ #Rectangle15copy2_0 
+{ 
+	 left: 930px; 
+	 top: 595px; 
+	 position: absolute; 
+	 width: 40px;
+	 height: 40px;
+	 z-index:67;
+} 
+
+ #Polygon1copy13_0 
+{ 
+	 left: 939px; 
+	 top: 609px; 
+	 position: absolute; 
+	 width: 18px;
+	 height: 16px;
+	 z-index:68;
+} 
+
+ #Ellipse1 
+{ 
+	 left: 1101px; 
+	 top: 745px; 
+	 position: absolute; 
+	 width: 6px;
+	 height: 6px;
+	 z-index:69;
+} 
+
+ #Ellipse1copy 
+{ 
+	 left: 1101px; 
+	 top: 749px; 
+	 position: absolute; 
+	 width: 6px;
+	 height: 6px;
+	 z-index:70;
+} 
+
+ #Ellipse1copy2 
+{ 
+	 left: 1101px; 
+	 top: 753px; 
+	 position: absolute; 
+	 width: 6px;
+	 height: 6px;
+	 z-index:71;
+} 
+
+ #Ellipse1copy3 
+{ 
+	 left: 1097px; 
+	 top: 749px; 
+	 position: absolute; 
+	 width: 6px;
+	 height: 6px;
+	 z-index:72;
+} 
+
+ #Ellipse1copy3_0 
+{ 
+	 left: 1097px; 
+	 top: 753px; 
+	 position: absolute; 
+	 width: 6px;
+	 height: 6px;
+	 z-index:73;
+} 
+
+ #Ellipse1copy4 
+{ 
+	 left: 1094px; 
+	 top: 753px; 
+	 position: absolute; 
+	 width: 5px;
+	 height: 6px;
+	 z-index:74;
+} 
+
+ #NamaLengkapEmail 
+{ 
+	 left: 617px; 
+	 top: 491px; 
+	 position: absolute; 
+	 width: 183px;
+	 height: 170px;
+	 z-index:75;
+} 
+
+ #Sayatelahmembacadanm_0 
+{ 
+	 left: 846px; 
+	 top: 780px; 
+	 position: absolute; 
+	 width: 225px;
+	 height: 32px;
+	 z-index:76;
+} 
+
+ #RoundedRectangle4_0 
+{ 
+	 left: 820px; 
+	 top: 776px; 
+	 position: absolute; 
+	 width: 19px;
+	 height: 19px;
+	 z-index:77;
+} 
+
+ #RoundedRectangle6 
+{ 
+	 left: 1231px; 
+	 top: 761px; 
+	 position: absolute; 
+	 width: 87px;
+	 height: 87px;
+	 z-index:78;
+} 
+
+ #Login 
+{ 
+	 left: 1244px; 
+	 top: 798px; 
+	 position: absolute; 
+	 width: 62px;
+	 height: 15px;
+	 z-index:79;
+} 
+
+ #RoundedRectangle6_0 
+{ 
+	 left: 1231px; 
+	 top: 761px; 
+	 position: absolute; 
+	 width: 87px;
+	 height: 87px;
+	 z-index:80;
+} 
+
+ #Layer61 
+{ 
+	 left: 1194px; 
+	 top: 681px; 
+	 position: absolute; 
+	 width: 161px;
+	 height: 161px;
+	 z-index:81;
+} 
+
+ #Login_0 
+{ 
+	 left: 1244px; 
+	 top: 798px; 
+	 position: absolute; 
+	 width: 62px;
+	 height: 15px;
+	 z-index:82;
+} 
+
+ #Rectangle7copy2 
+{ 
+	 left: 582px; 
+	 top: 426px; 
+	 position: absolute; 
+	 width: 756px;
+	 height: 176px;
+	 z-index:83;
+} 
+
+ #Login_1 
+{ 
+	 left: 927px; 
+	 top: 438px; 
+	 position: absolute; 
+	 width: 64px;
+	 height: 27px;
+	 z-index:84;
+} 
+
+ #RoundedRectangle2_3 
+{ 
+	 left: 811px; 
+	 top: 479px; 
+	 position: absolute; 
+	 width: 303px;
+	 height: 33px;
+	 z-index:85;
+} 
+
+ #RoundedRectangle2cop_6 
+{ 
+	 left: 811px; 
+	 top: 519px; 
+	 position: absolute; 
+	 width: 303px;
+	 height: 33px;
+	 z-index:86;
+} 
+
+ #UsernamePassword 
+{ 
+	 left: 618px; 
+	 top: 491px; 
+	 position: absolute; 
+	 width: 182px;
+	 height: 50px;
+	 z-index:87;
+} 
+
+ #MasukkanUsernameanda 
+{ 
+	 left: 823px; 
+	 top: 491px; 
+	 position: absolute; 
+	 width: 177px;
+	 height: 11px;
+	 z-index:88;
+} 
+
+ #MasukkanPasswordanda 
+{ 
+	 left: 823px; 
+	 top: 531px; 
+	 position: absolute; 
+	 width: 174px;
+	 height: 10px;
+	 z-index:89;
+} 
+
+ #AndatidakpunyaakunSi 
+{ 
+	 left: 630px; 
+	 top: 572px; 
+	 position: absolute; 
+	 width: 286px;
+	 height: 15px;
+	 z-index:90;
+} 
+
+ #Rectangle18 
+{ 
+	 left: 615px; 
+	 top: 572px; 
+	 position: absolute; 
+	 width: 11px;
+	 height: 11px;
+	 z-index:91;
+} 
+
+ #RoundedRectangle6_1 
+{ 
+	 left: 1231px; 
+	 top: 471px; 
+	 position: absolute; 
+	 width: 87px;
+	 height: 87px;
+	 z-index:92;
+} 
+
+ #Login_2 
+{ 
+	 left: 1244px; 
+	 top: 508px; 
+	 position: absolute; 
+	 width: 62px;
+	 height: 15px;
+	 z-index:93;
+} 
+
+ #RoundedRectangle6_2 
+{ 
+	 left: 1231px; 
+	 top: 471px; 
+	 position: absolute; 
+	 width: 87px;
+	 height: 87px;
+	 z-index:94;
+} 
+
+ #Layer61_0 
+{ 
+	 left: 1194px; 
+	 top: 391px; 
+	 position: absolute; 
+	 width: 161px;
+	 height: 161px;
+	 z-index:95;
+} 
+
+ #Login_3 
+{ 
+	 left: 1244px; 
+	 top: 508px; 
+	 position: absolute; 
+	 width: 62px;
+	 height: 15px;
+	 z-index:96;
+} 
+
+ #Rectangle7_1 
+{ 
+	 left: 582px; 
+	 top: 424px; 
+	 position: absolute; 
+	 width: 756px;
+	 height: 441px;
+	 z-index:97;
+} 
+
+ #Rectangle15copy_2 
+{ 
+	 left: 588px; 
+	 top: 472px; 
+	 position: absolute; 
+	 width: 743px;
+	 height: 4px;
+	 z-index:98;
+} 
+
+ #Rectangle8_3 
+{ 
+	 left: 1144px; 
+	 top: 884px; 
+	 position: absolute; 
+	 width: 174px;
+	 height: 54px;
+	 z-index:99;
+} 
+
+ #RoundedRectangle1_3 
+{ 
+	 left: 1144px; 
+	 top: 859px; 
+	 position: absolute; 
+	 width: 216px;
+	 height: 54px;
+	 z-index:100;
+} 
+
+ #Login_4 
+{ 
+	 left: 1186px; 
+	 top: 898px; 
+	 position: absolute; 
+	 width: 86px;
+	 height: 27px;
+	 z-index:101;
+} 
+
+ #Rectangle8_4 
+{ 
+	 left: 1144px; 
+	 top: 884px; 
+	 position: absolute; 
+	 width: 174px;
+	 height: 54px;
+	 z-index:102;
+} 
+
+ #RoundedRectangle1_4 
+{ 
+	 left: 1144px; 
+	 top: 859px; 
+	 position: absolute; 
+	 width: 216px;
+	 height: 54px;
+	 z-index:103;
+} 
+
+ #Login_5 
+{ 
+	 left: 1186px; 
+	 top: 898px; 
+	 position: absolute; 
+	 width: 86px;
+	 height: 27px;
+	 z-index:104;
+} 
+
+ #Polygon1copy 
+{ 
+	 left: 698px; 
+	 top: 885px; 
+	 position: absolute; 
+	 width: 14px;
+	 height: 16px;
+	 z-index:105;
+} 
+
+ #Polygon1copy2 
+{ 
+	 left: 712px; 
+	 top: 885px; 
+	 position: absolute; 
+	 width: 14px;
+	 height: 16px;
+	 z-index:106;
+} 
+
+ #Polygon1copy3 
+{ 
+	 left: 726px; 
+	 top: 885px; 
+	 position: absolute; 
+	 width: 14px;
+	 height: 16px;
+	 z-index:107;
+} 
+
+ #registrasi_1 
+{ 
+	 left: 604px; 
+	 top: 885px; 
+	 position: absolute; 
+	 width: 86px;
+	 height: 16px;
+	 z-index:108;
+} 
+
+ #Loremipsumdolorsitam 
+{ 
+	 left: 623px; 
+	 top: 495px; 
+	 position: absolute; 
+	 width: 685px;
+	 height: 282px;
+	 z-index:109;
+} 
+
+ #GarenaTurnament3vs3 
+{ 
+	 left: 805px; 
+	 top: 438px; 
+	 position: absolute; 
+	 width: 308px;
+	 height: 27px;
+	 z-index:110;
+} 
+
+ #Rectangle16 
+{ 
+	 left: 582px; 
+	 top: 374px; 
+	 position: absolute; 
+	 width: 756px;
+	 height: 42px;
+	 z-index:111;
+} 
+
+ #GarenaTestWebsite 
+{ 
+	 left: 790px; 
+	 top: 384px; 
+	 position: absolute; 
+	 width: 339px;
+	 height: 22px;
+	 z-index:112;
+} 
+
+ #GarenaLogo 
+{ 
+	 left: 844px; 
+	 top: 75px; 
+	 position: absolute; 
+	 width: 263px;
+	 height: 276px;
+	 z-index:113;
+} 
+
+ #fxcopy9 
+{ 
+	 left: 1011px; 
+	 top: 74px; 
+	 position: absolute; 
+	 width: 97px;
+	 height: 122px;
+	 z-index:114;
+} 
+
+ #fxcopy9_0 
+{ 
+	 left: 995px; 
+	 top: 151px; 
+	 position: absolute; 
+	 width: 128px;
+	 height: 89px;
+	 z-index:115;
+} 
+
+ #Layer1600copy4 
+{ 
+	 left: 1040px; 
+	 top: 133px; 
+	 position: absolute; 
+	 width: 87px;
+	 height: 81px;
+	 z-index:116;
+} 
+
+ #fxcopy7 
+{ 
+	 left: 871px; 
+	 top: 26px; 
+	 position: absolute; 
+	 width: 97px;
+	 height: 122px;
+	 z-index:117;
+} 
+
+ #fxcopy8 
+{ 
+	 left: 840px; 
+	 top: 60px; 
+	 position: absolute; 
+	 width: 136px;
+	 height: 73px;
+	 z-index:118;
+} 
+
+ #Layer1600copy 
+{ 
+	 left: 872px; 
+	 top: 52px; 
+	 position: absolute; 
+	 width: 87px;
+	 height: 81px;
+	 z-index:119;
+} 
+
+ #Rectangle1 
+{ 
+	 left: -1px; 
+	 top: 955px; 
+	 position: absolute; 
+	 width: 1922px;
+	 height: 126px;
+	 z-index:120;
+} 
+
+ #normal 
+{ 
+	 left: 1265px; 
+	 top: 994px; 
+	 position: absolute; 
+	 width: 50px;
+	 height: 50px;
+	 z-index:121;
+} 
+
+ #hover 
+{ 
+	 left: 1265px; 
+	 top: 994px; 
+	 position: absolute; 
+	 width: 50px;
+	 height: 50px;
+	 z-index:122;
+} 
+
+ #normal_0 
+{ 
+	 left: 1200px; 
+	 top: 994px; 
+	 position: absolute; 
+	 width: 50px;
+	 height: 50px;
+	 z-index:123;
+} 
+
+ #hover_0 
+{ 
+	 left: 1200px; 
+	 top: 994px; 
+	 position: absolute; 
+	 width: 50px;
+	 height: 50px;
+	 z-index:124;
+} 
+
+ #normal_1 
+{ 
+	 left: 1140px; 
+	 top: 994px; 
+	 position: absolute; 
+	 width: 50px;
+	 height: 50px;
+	 z-index:125;
+} 
+
+ #hover_1 
+{ 
+	 left: 1140px; 
+	 top: 994px; 
+	 position: absolute; 
+	 width: 50px;
+	 height: 50px;
+	 z-index:126;
+} 
+
+ #garena 
+{ 
+	 left: 605px; 
+	 top: 986px; 
+	 position: absolute; 
+	 width: 225px;
+	 height: 67px;
+	 z-index:127;
+} 
+
+ #Rectangle13 
+{ 
+	 left: 661px; 
+	 top: -46px; 
+	 position: absolute; 
+	 width: 597px;
+	 height: 88px;
+	 z-index:128;
+} 
+
+ #Rectangle13copy 
+{ 
+	 left: 749px; 
+	 top: -2px; 
+	 position: absolute; 
+	 width: 424px;
+	 height: 38px;
+	 z-index:129;
+} 
+
+ #Rectangle14 
+{ 
+	 left: 1019px; 
+	 top: -1px; 
+	 position: absolute; 
+	 width: 5px;
+	 height: 35px;
+	 z-index:130;
+} 
+
+ #Rectangle14copy 
+{ 
+	 left: 895px; 
+	 top: -1px; 
+	 position: absolute; 
+	 width: 5px;
+	 height: 35px;
+	 z-index:131;
+} 
+
+ #normal_2 
+{ 
+	 left: 921px; 
+	 top: 9px; 
+	 position: absolute; 
+	 width: 79px;
+	 height: 17px;
+	 z-index:132;
+} 
+
+ #hover_2 
+{ 
+	 left: 921px; 
+	 top: 9px; 
+	 position: absolute; 
+	 width: 79px;
+	 height: 17px;
+	 z-index:133;
+} 
+
+ #normal_3 
+{ 
+	 left: 1052px; 
+	 top: 9px; 
+	 position: absolute; 
+	 width: 75px;
+	 height: 17px;
+	 z-index:134;
+} 
+
+ #hover_3 
+{ 
+	 left: 1052px; 
+	 top: 9px; 
+	 position: absolute; 
+	 width: 75px;
+	 height: 17px;
+	 z-index:135;
+} 
+
+ #normal_4 
+{ 
+	 left: 776px; 
+	 top: 9px; 
+	 position: absolute; 
+	 width: 107px;
+	 height: 17px;
+	 z-index:136;
+} 
+
+ #hover_4 
+{ 
+	 left: 776px; 
+	 top: 9px; 
+	 position: absolute; 
+	 width: 107px;
+	 height: 17px;
+	 z-index:137;
+} 
+
+ #Layer60 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1920px;
+	 height: 1080px;
+	 z-index:138;
+} 
+
+ #Rectangle17 
+{ 
+	 left: 684px; 
+	 top: 166px; 
+	 position: absolute; 
+	 width: 552px;
+	 height: 747px;
+	 z-index:139;
+} 
+
+ #RoundedRectangle5_0 
+{ 
+	 left: 1202px; 
+	 top: 230px; 
+	 position: absolute; 
+	 width: 11px;
+	 height: 667px;
+	 z-index:140;
+} 
+
+ #RoundedRectangle5cop_0 
+{ 
+	 left: 1202px; 
+	 top: 230px; 
+	 position: absolute; 
+	 width: 11px;
+	 height: 104px;
+	 z-index:141;
+} 
+
+ #ThestandardLoremIpsu 
+{ 
+	 left: 713px; 
+	 top: 232px; 
+	 position: absolute; 
+	 width: 465px;
+	 height: 660px;
+	 z-index:142;
+} 
+
+ #x 
+{ 
+	 left: 1198px; 
+	 top: 183px; 
+	 position: absolute; 
+	 width: 19px;
+	 height: 22px;
+	 z-index:143;
+} 
+
+ #SyaratKetentuan 
+{ 
+	 left: 838px; 
+	 top: 181px; 
+	 position: absolute; 
+	 width: 244px;
+	 height: 27px;
+	 z-index:144;
+} 
+
+ #1280x720 
+{ 
+	 left: 318px; 
+	 top: -2px; 
+	 position: absolute; 
+	 width: 1283px;
+	 height: 723px;
+	 z-index:145;
+} 
+
+ #1024x768 
+{ 
+	 left: 446px; 
+	 top: -2px; 
+	 position: absolute; 
+	 width: 1027px;
+	 height: 771px;
+	 z-index:146;
+} 
+
+ #800x600 
+{ 
+	 left: 558px; 
+	 top: -2px; 
+	 position: absolute; 
+	 width: 803px;
+	 height: 603px;
+	 z-index:147;
+} 
